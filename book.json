@@ -1,0 +1,29 @@
+{
+  "title": "乐享家用户操作手册",
+  "gitbook": "2.x.x",
+  "description": "",
+  "language": "zh",
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "white",
+      "family": "msyh",
+      "size": 2
+    },
+    "plugins": [
+      "yahei",
+      "katex",
+      "-search"
+    ]
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 18,
+    "paperSize": "a4",
+    "margin": {
+      "right": 30,
+      "left": 30,
+      "top": 30,
+      "bottom": 50
+    }
+  }
+}
