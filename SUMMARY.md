@@ -1,6 +1,6 @@
 # Summary
 
-* [项目简介](introduction.md)
+* [项目简介](index.md)
 * [物业管理员使用指南](物业管理员使用指南.md)
 * [微信端业主使用说明](微信端业主使用说明.md)
 * [FAQ](FAQ.md)
